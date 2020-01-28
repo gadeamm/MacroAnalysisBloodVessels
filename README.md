@@ -1,7 +1,7 @@
 # MacroAnalysisBloodVessels
-Macro for Analysis of the blood vessels (ImageJ / FIJI)
+Macro for Analysis of the blood vessels implemented for [ImageJ](http://imagej.nih.gov/ij/) or [Fiji](https://fiji.sc/)
 
-This macro was developed for the analysis of the blood vessels of an essay from Andrea Luengas ()
+This macro was developed for the analysis of the blood vessels of an essay from Andrea Luengas-Martinez (Centre for Dermatology Research, University of Manchester)
 
 ## Description
 
@@ -14,3 +14,8 @@ The “MaxEntropy” method was used in this analysis because it gets close to t
 The area of the red channel as well as the mean and the standard deviation of the intensity of the green channel are measured. 
 A table with the results is generated and it is saved in the same folder where the images are located in a folder named “output”. 
 The regions of interest with a value of green mean intensity over 100 are excluded from the analysis since they are considered lymphatic vessels. All the dialogue boxes are closed and the macro automatically opens the next image in the folder. 
+
+## Use or Install 
+.- Use it, open the ijm-file on ImageJ or Fiji and pressing ctrl+r (or "Run").
+
+.- Install it, save the macro in a "Plugins" subfolder and it will appear in the menu (Plugins > Macro_AnalysisBloodVessels) upon restart of ImageJ/Fiji (for more information click [here](https://imagej.net/Introduction_into_Macro_Programming#Installing_macros)).
