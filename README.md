@@ -1,7 +1,7 @@
 # MacroAnalysisBloodVessels
 Macro for Analysis of the blood vessels implemented for [ImageJ](http://imagej.nih.gov/ij/) or [Fiji](https://fiji.sc/)
 
-This macro was developed for the analysis of the blood vessels of an essay from Andrea Luengas-Martinez (Centre for Dermatology Research, The University of Manchester)
+This macro has been developed for the analysis of the blood vessels density for an assay performed by Andrea Luengas-Martinez (Centre for Dermatology Research, The University of Manchester)
 
 ## Description
 
