@@ -1,7 +1,10 @@
 # MacroAnalysisBloodVessels
 Macro for Analysis of the blood vessels implemented for [ImageJ](http://imagej.nih.gov/ij/) or [Fiji](https://fiji.sc/)
 
-This macro has been developed for the analysis of the blood vessels density for an assay performed by Andrea Luengas-Martinez (Centre for Dermatology Research, The University of Manchester)
+This macro has been developed for the analysis of the blood vessels density for an assay performed by Andrea Luengas-Martinez (Centre for Dermatology Research, The University of Manchester). 
+
+You can find more information:
+Luengas-Martinez A, Hardman-Smart J, Rutkowski D, Purba TS, Paus R, Young HS. Vascular Endothelial Growth Factor Blockade Induces Dermal Endothelial Cell Apoptosis in a Clinically Relevant Skin Organ Culture Model. Skin Pharmacol Physiol. 2020;33(3):110-118. doi: 10.1159/000508344. Epub 2020 Jun 22. PMID: 32570235.
 
 ## Description
 
